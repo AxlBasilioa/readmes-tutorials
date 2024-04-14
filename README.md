@@ -18,6 +18,7 @@ as some kind of Database, i'd like to build this repo with the next structure as
             "file2EN":"file2.md",
             //etc
         }
+        //More lenguages
     },
     "more Technologies": {
         "ES":{
@@ -30,6 +31,7 @@ as some kind of Database, i'd like to build this repo with the next structure as
             "file2EN":"file2.md",
             //etc
         }
+        //More lenguages
     },
   },
 }
