@@ -1,3 +1,7 @@
+# api de ordenamiento en la nube (index.js en el pc xd)
+
+# ExpressJS, axios, cors
+
 # learning code
 Hello world! (: the objective of this repo is build a collection of readmes that allows the users to learn how to code with some platform, easy, fast and open source, also open to contributtors
 the goal is make this [page](https://learning-code-a3ff1.web.app/home) to grow, you can also check the repository [here](https://github.com/AxlBasilioa/readmes-tutorials)
@@ -5,6 +9,7 @@ the goal is make this [page](https://learning-code-a3ff1.web.app/home) to grow, 
 # Stimated structure
 as some kind of Database, i'd like to build this repo with the next structure as JSON format
 ```json
+Hola mundo!
 {
   "thisRepository": {
     "the technology": {
